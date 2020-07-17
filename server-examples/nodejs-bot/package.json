@@ -9,6 +9,6 @@
     "cors": "2.8.4",
     "dotenv": "6.0.0",
     "body-parser": "^1.17.2",
-    "request": "^2.81.0"
+    "request": "^2.88.0"
   }
 }
