@@ -10,7 +10,7 @@
   "license": "Platform License",
   "private": true,
   "dependencies": {
-    "gulp": "4.0.2",
+    "gulp": "5.0.0",
     "gulp-html-replace": "^1.6.2",
     "gulp-rename": "^1.2.2",
     "gulp-rimraf": "^0.2.2",
